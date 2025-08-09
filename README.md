@@ -87,9 +87,11 @@ Random Forest
 Evaluate performance using confusion matrix, accuracy, precision, recall, and F1-score.
 
 📈 Results
-Model	Accuracy	Precision	Recall	F1-score
-Logistic Regression	99.2%	92%	85%	88%
-Random Forest	99.9%	97%	91%	94%
+| Model               | Accuracy | Precision | Recall | F1-score |
+| ------------------- | -------- | --------- | ------ | -------- |
+| Logistic Regression | 99.2%    | 92%       | 85%    | 88%      |
+| Random Forest       | 99.9%    | 97%       | 91%    | 94%      |
+
 
 (Results may vary depending on preprocessing and train-test split.)
 
@@ -116,5 +118,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🌐 Connect with Me
 LinkedIn: https://www.linkedin.com/in/tanmay-borawke-6122-/
 
-GitHub: Your GitHub Link
+GitHub: https://github.com/TanmayBorawke
 
